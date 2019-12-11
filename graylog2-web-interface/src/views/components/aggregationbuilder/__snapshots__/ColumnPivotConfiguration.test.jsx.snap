@@ -3,7 +3,7 @@
 exports[`<ColumnPivotConfiguraiton /> should render as expected 1`] = `
 <div>
   <div
-    className="form-group"
+    className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
   >
     <span>
       <div

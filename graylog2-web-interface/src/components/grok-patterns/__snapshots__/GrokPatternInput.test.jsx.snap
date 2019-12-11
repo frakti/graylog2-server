@@ -8,7 +8,7 @@ exports[`<GrokPatternInput /> should render grok pattern input with patterns 1`]
     className="col-sm-8"
   >
     <div
-      className="form-group"
+      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
     >
       <label
         className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -41,7 +41,7 @@ exports[`<GrokPatternInput /> should render grok pattern input with patterns 1`]
     className="col-sm-4"
   >
     <div
-      className="filterFormGroup"
+      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr filterFormGroup"
     >
       <label
         className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -177,7 +177,7 @@ exports[`<GrokPatternInput /> should render grok pattern input without patterns 
     className="col-sm-8"
   >
     <div
-      className="form-group"
+      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
     >
       <label
         className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -210,7 +210,7 @@ exports[`<GrokPatternInput /> should render grok pattern input without patterns 
     className="col-sm-4"
   >
     <div
-      className="filterFormGroup"
+      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr filterFormGroup"
     >
       <label
         className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"

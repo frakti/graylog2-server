@@ -14,7 +14,7 @@ exports[`<ContentPackInstall /> should render a install 1`] = `
       <br />
       <br />
       <div
-        className="form-group"
+        className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
       >
         <label
           className="col-sm-3 ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -53,7 +53,7 @@ exports[`<ContentPackInstall /> should render a install 1`] = `
       <br />
       <br />
       <div
-        className="form-group"
+        className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
       >
         <label
           className="col-sm-3 ControlLabel-sc-1edmum5-0 iZJNbd control-label"

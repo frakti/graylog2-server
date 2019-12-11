@@ -14,7 +14,7 @@ exports[`<ContentPackApplyParameter /> should render with full props 1`] = `
         className="col-sm-5 col-sm-offset-1"
       >
         <div
-          className="form-group"
+          className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
         >
           <label
             className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -63,7 +63,7 @@ exports[`<ContentPackApplyParameter /> should render with full props 1`] = `
         className="col-sm-5"
       >
         <div
-          className="form-group"
+          className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
         >
           <label
             className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -198,7 +198,7 @@ exports[`<ContentPackApplyParameter /> should render with minimal props 1`] = `
         className="col-sm-5 col-sm-offset-1"
       >
         <div
-          className="form-group"
+          className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
         >
           <label
             className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -252,7 +252,7 @@ exports[`<ContentPackApplyParameter /> should render with minimal props 1`] = `
         className="col-sm-5"
       >
         <div
-          className="form-group"
+          className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
         >
           <label
             className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -345,7 +345,7 @@ exports[`<ContentPackApplyParameter /> should render with readOnly 1`] = `
         className="col-sm-5 col-sm-offset-1"
       >
         <div
-          className="form-group"
+          className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
         >
           <label
             className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -394,7 +394,7 @@ exports[`<ContentPackApplyParameter /> should render with readOnly 1`] = `
         className="col-sm-5"
       >
         <div
-          className="form-group"
+          className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
         >
           <label
             className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"

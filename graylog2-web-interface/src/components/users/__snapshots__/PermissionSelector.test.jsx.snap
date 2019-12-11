@@ -81,7 +81,7 @@ exports[`<PermissionSelector /> should render with empty permissions 1`] = `
                     }
                   >
                     <div
-                      className="form-group"
+                      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                     >
                       <label
                         className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -143,7 +143,7 @@ exports[`<PermissionSelector /> should render with empty permissions 1`] = `
                   className="listGroupHeader ListGroupItem-sc-1ky0joo-0 igGIXt list-group-item"
                 >
                   <div
-                    className="form-group"
+                    className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                   >
                     <div
                       className="form-group-inline"
@@ -201,7 +201,7 @@ exports[`<PermissionSelector /> should render with empty permissions 1`] = `
                       </div>
                     </div>
                     <div
-                      className="form-group"
+                      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                     >
                       <div
                         className="form-group-inline"
@@ -265,7 +265,7 @@ exports[`<PermissionSelector /> should render with empty permissions 1`] = `
                       </div>
                     </div>
                     <div
-                      className="form-group"
+                      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                     >
                       <div
                         className="form-group-inline"
@@ -337,7 +337,7 @@ exports[`<PermissionSelector /> should render with empty permissions 1`] = `
                     }
                   >
                     <div
-                      className="form-group"
+                      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                     >
                       <label
                         className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -399,7 +399,7 @@ exports[`<PermissionSelector /> should render with empty permissions 1`] = `
                   className="listGroupHeader ListGroupItem-sc-1ky0joo-0 igGIXt list-group-item"
                 >
                   <div
-                    className="form-group"
+                    className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                   >
                     <div
                       className="form-group-inline"
@@ -457,7 +457,7 @@ exports[`<PermissionSelector /> should render with empty permissions 1`] = `
                       </div>
                     </div>
                     <div
-                      className="form-group"
+                      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                     >
                       <div
                         className="form-group-inline"
@@ -521,7 +521,7 @@ exports[`<PermissionSelector /> should render with empty permissions 1`] = `
                       </div>
                     </div>
                     <div
-                      className="form-group"
+                      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                     >
                       <div
                         className="form-group-inline"
@@ -645,7 +645,7 @@ exports[`<PermissionSelector /> should render with set permissions 1`] = `
                     }
                   >
                     <div
-                      className="form-group"
+                      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                     >
                       <label
                         className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -707,7 +707,7 @@ exports[`<PermissionSelector /> should render with set permissions 1`] = `
                   className="listGroupHeader ListGroupItem-sc-1ky0joo-0 igGIXt list-group-item"
                 >
                   <div
-                    className="form-group"
+                    className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                   >
                     <div
                       className="form-group-inline"
@@ -765,7 +765,7 @@ exports[`<PermissionSelector /> should render with set permissions 1`] = `
                       </div>
                     </div>
                     <div
-                      className="form-group"
+                      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                     >
                       <div
                         className="form-group-inline"
@@ -829,7 +829,7 @@ exports[`<PermissionSelector /> should render with set permissions 1`] = `
                       </div>
                     </div>
                     <div
-                      className="form-group"
+                      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                     >
                       <div
                         className="form-group-inline"
@@ -901,7 +901,7 @@ exports[`<PermissionSelector /> should render with set permissions 1`] = `
                     }
                   >
                     <div
-                      className="form-group"
+                      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                     >
                       <label
                         className="ControlLabel-sc-1edmum5-0 iZJNbd control-label"
@@ -963,7 +963,7 @@ exports[`<PermissionSelector /> should render with set permissions 1`] = `
                   className="listGroupHeader ListGroupItem-sc-1ky0joo-0 igGIXt list-group-item"
                 >
                   <div
-                    className="form-group"
+                    className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                   >
                     <div
                       className="form-group-inline"
@@ -1021,7 +1021,7 @@ exports[`<PermissionSelector /> should render with set permissions 1`] = `
                       </div>
                     </div>
                     <div
-                      className="form-group"
+                      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                     >
                       <div
                         className="form-group-inline"
@@ -1085,7 +1085,7 @@ exports[`<PermissionSelector /> should render with set permissions 1`] = `
                       </div>
                     </div>
                     <div
-                      className="form-group"
+                      className="FormGroup__StyledFormGroup-sc-1wv4cm9-0 ekazNr form-group"
                     >
                       <div
                         className="form-group-inline"
